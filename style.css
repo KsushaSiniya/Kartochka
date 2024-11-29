@@ -25,10 +25,8 @@ button {
 
 .sizes {
   margin-bottom: 1rem;
-  label + label {
-    margin-left: 1rem;
+  label + label {margin-left: 1rem;}
   }
-}
 
 .card {
   display: grid;
